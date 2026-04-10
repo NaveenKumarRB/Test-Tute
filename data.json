@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "email": "priya@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "role": "Product Manager",
+    "department": "Product",
+    "email": "rahul@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Ananya Iyer",
+    "role": "UX Designer",
+    "department": "Design",
+    "email": "ananya@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Arjun Nair",
+    "role": "Data Scientist",
+    "department": "Analytics",
+    "email": "arjun@example.com"
+  }
+]
