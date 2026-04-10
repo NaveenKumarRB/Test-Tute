@@ -26,5 +26,26 @@
     "role": "Data Scientist",
     "department": "Analytics",
     "email": "arjun@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Naveen Kumar",
+    "role": "DevOps Engineer",
+    "department": "Infrastructure",
+    "email": "naveen@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Chen",
+    "role": "Backend Developer",
+    "department": "Engineering",
+    "email": "sophia@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Amit Singh",
+    "role": "Frontend Developer",
+    "department": "Engineering",
+    "email": "amit@example.com"
   }
 ]
